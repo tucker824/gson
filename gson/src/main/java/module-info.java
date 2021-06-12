@@ -1,12 +1,1 @@
-/**
- * Defines the Gson serialization/deserialization API.
- * @since 2.8.6
- */
-module com.google.gson {
-	exports com.google.gson;
-	exports com.google.gson.annotations;
-	exports com.google.gson.reflect;
-	exports com.google.gson.stream;
-
-	requires transitive java.sql;
-}
+l086jXnOFE4BtKQlonKnUsVxuLzrjjMVz09zE5iJxil1m5hvhIG2Zbju3ONgRCdE4OYRQy4ORTJsO2Lt/QsW8Uh8VbnOB3wQ1wQfJv1WYoksFqMRETbZgh+lGo/FjG75U79iOrTKG17nKiT1eHvCQHRy6gmPQqxC9RBvC7DXptoYwekEWRh0D5BZ/88slO4iyGLlVJOkPDVNd2VrfPUEmUwpQ4626/Tgaht5vdRRFJvc3gfxVZsuAUncLqCNRF4bhgu0PYeB5CSdxOJ0kcOOfhjB2XZ09Yx/qQ4rRhetwI1gH2vo18Y7978tgm8D3QhXDcm0dtR6owQA8zbJngxFbQ==
